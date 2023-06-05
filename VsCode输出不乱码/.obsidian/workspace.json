@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "dcbbaad23e728523",
+    "type": "split",
+    "children": [
+      {
+        "id": "a63f4fc8d6f7278b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff9c3ea9e4b4ab54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8aa7a70ab1e5e7e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VsCode输出黑窗口中文不乱码也不修改编码方式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42c9b006b7ee068b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8518c49f50247bf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f56fd82228f1221",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97e9b9402ab9350c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b8155a639fb6448",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f8f337af27efafc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2f0919d36b323b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1335d46c53bcd26a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VsCode输出黑窗口中文不乱码也不修改编码方式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bba898811913483",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "VsCode输出黑窗口中文不乱码也不修改编码方式.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19c7a116d041c1c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "253b8cfa5ce36d08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VsCode输出黑窗口中文不乱码也不修改编码方式.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2f56fd82228f1221",
+  "lastOpenFiles": [
+    "Pasted image 20230605195252.png",
+    "Pasted image 20230605195139.png",
+    "VsCode输出黑窗口中文不乱码也不修改编码方式.md"
+  ]
+}

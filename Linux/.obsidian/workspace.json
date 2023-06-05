@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "1ac329644c3089a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9a7fc45add69714",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2ffa2e7f506b9dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b127d7f6bde4d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux设置修改root密码.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d36e30d6668ecee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "60fd7219aed13bd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e1b54e156a29211",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af43e00700359da8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "显示当前",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45873120071930b4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f96130f0fcb8a9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7a56122dc1713f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "971546a3ca949387",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a78cf31e0dd570cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5497bbc2657c1403",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "556bc9bc1cb193d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d2ffa2e7f506b9dc",
+  "lastOpenFiles": [
+    "Linux设置修改root密码.md",
+    "CMD命令远程控制Linux.md",
+    "Linux常用命令.md",
+    "文件处理命令.md",
+    "权限管理命令.md"
+  ]
+}
